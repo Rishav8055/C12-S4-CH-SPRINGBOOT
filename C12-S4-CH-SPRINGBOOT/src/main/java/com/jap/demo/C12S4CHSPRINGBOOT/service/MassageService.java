@@ -1,4 +1,4 @@
-package service;
+package com.jap.demo.C12S4CHSPRINGBOOT.service;
 
 import org.springframework.stereotype.Service;
 
